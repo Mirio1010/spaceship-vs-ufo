@@ -14,5 +14,5 @@ First unity game inspired by space invaders
 ## 🎮 Play the Game
 You can try the game here:  
 
-[![Play on itch.io](https://miguelangel-ortega.itch.io/spaceshipvsufo-v2)
+[![Play on itch.io](https://miguelangel-ortega.itch.io/spaceshipvsufo-v2)]
 
