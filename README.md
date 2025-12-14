@@ -4,7 +4,7 @@ First unity game inspired by space invaders
 ## 🚀 Game Preview
 
 <p align="center">
-  <img src="/image/screenshot.png" width="600" />
+  <img src="/image/screenshot.png" width="700" />
 </p>
 
 
